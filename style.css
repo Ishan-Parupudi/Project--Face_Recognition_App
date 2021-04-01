@@ -1,0 +1,32 @@
+body
+{
+color: aliceblue;
+background:red;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+border-width: 5px;
+border-radius: 2px dashed red;
+width: 350px;
+height: 300px;
+}
+
+#result
+{
+border-width: 5px;
+border-radius: 2px dashed red;
+width: 350px;
+height: 300px;
+}
+
+.name_of_objects, #result_person_name, #result_person_accuracy
+{
+    color: darkblue;
+}
